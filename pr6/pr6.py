@@ -17,7 +17,7 @@ mean_with = with_glasses['Luminance'].mean()
 difference = mean_without - mean_with
 percent_loss = (difference / mean_without) * 100
 
-print("\n=== РЕЗУЛЬТАТИ ===")
+print("\nРезультати")
 print(f"Середня освітленість без окулярів: {mean_without:.2f}")
 print(f"Середня освітленість з окулярами: {mean_with:.2f}")
 print(f"Різниця: {difference:.2f}")
