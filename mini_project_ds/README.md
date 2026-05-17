@@ -26,7 +26,7 @@
 <p align="center"><img width="617" height="716" alt="image" src="https://github.com/user-attachments/assets/2a4e3c73-c59f-4108-a9b8-f84e2c5ab117" /></p>
 
 # Результат:
-В результаті виходить зручний автономний агент, який побудований як API сервіс для класифікації електронних повідомлень.
+В результаті виходить зручний автоматизований агент, який побудований як API сервіс для класифікації електронних повідомлень.
 <p align="center"><img width="1004" height="694" alt="image" src="https://github.com/user-attachments/assets/8f3e0c0e-3f4a-465f-b160-c82d9e2eeba8" /></p>  
 <p align="center"><img width="1095" height="670" alt="image" src="https://github.com/user-attachments/assets/c0dce529-131b-4093-b065-b86685ff222c" /></p>
 <p align="center"><img width="896" height="649" alt="image" src="https://github.com/user-attachments/assets/532dca37-0371-4051-b5d1-99ee339fd9b3" /></p>  
